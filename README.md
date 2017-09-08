@@ -1,5 +1,5 @@
 # HoopsApp
-iOS app using Swift for Hoops Club (Football and Basketball Academy)
+iOS app using Swift for Hoops Club (Football and Basketball Academy).
 Includes court reservations, registration, and communications between fans, players, coaches, and the managers. 
 
 ![simulator screen shot sep 8 2017 10 01 39 pm](https://user-images.githubusercontent.com/20921475/30227253-b2015bd2-94e1-11e7-83a1-2e90ccb786f9.png)
